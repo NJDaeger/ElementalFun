@@ -3,7 +3,6 @@ package com.njdaeger.elef;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class ElementalFun extends JavaPlugin{
-	//commenrs
-	//ye
+	//Add on enable and disable
 
 }
