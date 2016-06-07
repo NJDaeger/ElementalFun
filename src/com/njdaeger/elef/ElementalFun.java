@@ -14,5 +14,23 @@ public class ElementalFun extends JavaPlugin{
 	public void onDisable() {
 		
 	}
+	
+	/*
+	 * command idea list: (add to it pls)
+	 * groundbreaker
+	 * catlitter
+	 * fart
+	 * particles
+	 * halp
+	 * funsound
+	 * animalhat
+	 * fireworks
+	 * rainbow
+	 * drunk
+	 * doublejump
+	 * trap
+	 * funnydeath
+	 * levitate
+	 */
 
 }
